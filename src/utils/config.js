@@ -7,6 +7,3 @@
 
 
 
-
-
-export { API_URL, TIMEOUT_SEC  ,STARTUP_QUERY ,RES_PER_PAGE};

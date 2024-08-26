@@ -14,5 +14,6 @@ class Controler {
   }
 }
 
-export default Controler;
+
+export default Controler; 
 
